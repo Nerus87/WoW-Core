@@ -1,0 +1,20 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <TreatWarningsAsErrors>True</TreatWarningsAsErrors>
+    <DebugType>Portable</DebugType>
+    <PackageId>Arctium.Core</PackageId>
+    <Version>0.0.0-dev</Version>
+    <Authors>Arctium Emulation</Authors>
+    <Product>Arctium Emulation Core Framework</Product>
+    <Description>The Arctium Emulation core framework. Includes base classes for networking, etc.</Description>
+    <Copyright>Copyright (c) 2012-2017 Arctium Emulation</Copyright>
+    <PackageLicenseUrl>https://eatgit.com/Arctium-Emulation/Core/blob/master/LICENSE</PackageLicenseUrl>
+    <PackageProjectUrl>https://eatgit.com/Arctium-Emulation/Core</PackageProjectUrl>
+    <RepositoryUrl>https://eatgit.com/Arctium-Emulation/Core</RepositoryUrl>
+    <RepositoryType>git</RepositoryType>
+    <AssemblyName>Arctium.Core</AssemblyName>
+    <RootNamespace>Arctium.Core</RootNamespace>
+  </PropertyGroup>
+</Project>
