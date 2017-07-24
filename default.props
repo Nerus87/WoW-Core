@@ -1,0 +1,8 @@
+<Project>
+
+  <PropertyGroup>
+	<TreatWarningsAsErrors>True</TreatWarningsAsErrors>
+	<AppendRuntimeIdentifierToOutputPath>True</AppendRuntimeIdentifierToOutputPath>
+  </PropertyGroup>
+
+</Project>

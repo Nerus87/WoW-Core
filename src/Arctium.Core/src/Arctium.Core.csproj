@@ -17,4 +17,8 @@
     <AssemblyName>Arctium.Core</AssemblyName>
     <RootNamespace>Arctium.Core</RootNamespace>
   </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\..\deps\src\Lappa.ORM\src\Lappa.ORM\Lappa.ORM.csproj" />
+  </ItemGroup>
 </Project>
